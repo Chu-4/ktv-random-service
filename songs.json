@@ -1,0 +1,107 @@
+[
+  {
+    "name": "演员",
+    "artist": "薛之谦",
+    "category": "流行"
+  },
+  {
+    "name": "小幸运",
+    "artist": "田馥甄",
+    "category": "流行"
+  },
+  {
+    "name": "告白气球",
+    "artist": "周杰伦",
+    "category": "流行"
+  },
+  {
+    "name": "平凡之路",
+    "artist": "朴树",
+    "category": "流行"
+  },
+  {
+    "name": "遥远的她",
+    "artist": "张学友",
+    "category": "流行"
+  },
+  {
+    "name": "朋友",
+    "artist": "周华健",
+    "category": "经典"
+  },
+  {
+    "name": "真的爱你",
+    "artist": "Beyond",
+    "category": "经典"
+  },
+  {
+    "name": "一千个伤心的理由",
+    "artist": "张学友",
+    "category": "经典"
+  },
+  {
+    "name": "吻别",
+    "artist": "张学友",
+    "category": "经典"
+  },
+  {
+    "name": "大海",
+    "artist": "张雨生",
+    "category": "经典"
+  },
+  {
+    "name": "海阔天空",
+    "artist": "Beyond",
+    "category": "粤语"
+  },
+  {
+    "name": "喜欢你",
+    "artist": "Beyond",
+    "category": "粤语"
+  },
+  {
+    "name": "千千阙歌",
+    "artist": "陈慧娴",
+    "category": "粤语"
+  },
+  {
+    "name": "追",
+    "artist": "张国荣",
+    "category": "粤语"
+  },
+  {
+    "name": "讲不出再见",
+    "artist": "谭咏麟",
+    "category": "粤语"
+  },
+  {
+    "name": "倾尽天下",
+    "artist": "河图",
+    "category": "古风"
+  },
+  {
+    "name": "故梦",
+    "artist": "橙翼",
+    "category": "古风"
+  },
+  {
+    "name": "清明雨上",
+    "artist": "许嵩",
+    "category": "古风"
+  },
+  {
+    "name": "红昭愿",
+    "artist": "音阙诗听",
+    "category": "古风"
+  },
+  {
+    "name": "牵丝戏",
+    "artist": "银临",
+    "category": "古风"
+  },
+  {
+    "name": "锦鲤抄",
+    "artist": "云の泣",
+    "category": "古风"
+  }
+]
