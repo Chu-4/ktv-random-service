@@ -13,6 +13,7 @@ app.use(express.json());
 
 // 接口：返回随机一首歌
 app.post('/random-song', (req, res) => {
+  console.log('收到请求：/random-song');
   let filteredSongs = [...songs];
 
   // 如果有请求体参数，进行筛选
